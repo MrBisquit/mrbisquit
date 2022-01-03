@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on ![http://usefulbot.co.uk:90/](Useful Bot)
 
-![https://wdmcserver.uksouth.cloudapp.azure.com/invite](https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
 
-[![Top Langs I use](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbisquit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
+
+[![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbisquit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
