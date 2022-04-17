@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Useful Bot](http://usefulbot.co.uk:90/)
 
-## What I usually use:
+## What I usually do:
 - I mostly work on projects made from Node.JS.
 - I use C# and XAML for Windows apps and mobile.
 
+## Some of my most recent repos:
+[![Console FileManager](https://github-readme-stats.vercel.app/api/pin/?username=mrbisquit&repo=Console_FileManager)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## Some of my stats:
 ![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
 
 [![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbisquit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
