@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I use C# and XAML for Windows apps and mobile.
 
 ## Some of my most recent repos:
-[![Console FileManager](https://github-readme-stats.vercel.app/api/pin/?username=mrbisquit&repo=Console_FileManager)](https://github.com/anuraghazra/github-readme-stats)
+[![Console FileManager](https://github-readme-stats.vercel.app/api/pin/?username=mrbisquit&repo=Console-FileManager)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Some of my stats:
