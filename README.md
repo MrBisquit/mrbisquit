@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Useful Bot](http://usefulbot.co.uk:90/)
+- 🔭 I’m currently working on [Useful Bot](https://bit.ly/usefulbot)
 
 ## What I usually do:
 - I mostly work on projects made from Node.JS.
