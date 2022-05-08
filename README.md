@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## Some of my most recent repos:
 [![Console FileManager](https://github-readme-stats.vercel.app/api/pin/?username=mrbisquit&repo=Console-FileManager)](https://github.com/anuraghazra/github-readme-stats)
+[![Bazaar-tracker](https://github-readme-stats.vercel.app/api/pin/?username=mrbisquit&repo=Bazaar-Tracker)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Some of my stats:
