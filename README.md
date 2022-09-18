@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - 🔭 I’m currently working on [Useful Bot](https://bit.ly/usefulbot)
+- Here's my discord server: https://discord.gg/HZfMeZTnkX
 
 ## What I usually do:
 - I mostly work on projects made from Node.JS.
