@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 
 ## Some of my stats:
-.. image:: https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/36040ab0-e413-4fdd-b0a2-3bf0913341a1.png
-    :target: https://wakatime.com/
+![https://wakatime.com]([https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/36040ab0-e413-4fdd-b0a2-3bf0913341a1.png))
+
 ![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
 
 [![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbisquit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
