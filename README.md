@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## Some of my stats:
-![https://wakatime.com](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/36040ab0-e413-4fdd-b0a2-3bf0913341a1.png)
+<figure><embed src="https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/1aca3df1-65b7-406a-9a95-6a1dc4b9dd24.svg"></embed></figure>
 
 ![https://blog.wtdawson.info](https://github-readme-stats.vercel.app/api?username=mrbisquit&show_icons=true&title_color=fff&icon_color=e56b6f&text_color=ecf8f8&bg_color=355070)
 
