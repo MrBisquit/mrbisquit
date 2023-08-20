@@ -18,9 +18,9 @@ I'm a software developer and avid GitHub user. Welcome to my GitHub profile!
 
 Here are some of the technologies and tools that I'm proficient in:
 
-| Python | JavaScript | C# | Xamarin | C (Learning) |
-|:------:|:----------:|:--:|:-------:|:------------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50">
+| Python | JavaScript | C# | Xamarin | C (Learning) | C++ (Learning |
+|:------:|:----------:|:--:|:-------:|:------------:|:-------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" width="50" height="50">
 
 | IDE/Tools          | Badge                                                                                                                 |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------|
