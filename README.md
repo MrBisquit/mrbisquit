@@ -6,15 +6,42 @@ I'm a software developer and avid GitHub user. Welcome to my GitHub profile!
 
 ## 📈 My GitHub Stats
 
-![MrBisquit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBisquit&show_icons=true&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=MrBisquit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBisquit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=mrbisquit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MrBisquit&show_icons=true&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBisquit&layout=compact&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrbisquit&layout=compact&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ![MrBisquit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBisquit&show_icons=true&theme=dark) -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBisquit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=mrbisquit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Wakatime this years languages](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/a2198219-cffa-4f6c-a1a6-d6fe158ed36e.svg)](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/a2198219-cffa-4f6c-a1a6-d6fe158ed36e.svg)-->
 
-[![Wakatime this years languages](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg)](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg)
+<!--[![Wakatime this years languages](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg)](https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg)-->
 <figure><embed src=""></embed></figure>
 
 ---
