@@ -1,7 +1,5 @@
 # Hello there, I'm MrBisquit! 👋
 
-I'm a software developer and avid GitHub user. Welcome to my GitHub profile!
-
 ---
 
 ## 📈 My GitHub Stats
