@@ -1,12 +1,10 @@
 # Hello there, I'm MrBisquit! 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=MrBisquit)
+
 ---
 
 ## 📈 My GitHub Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=MrBisquit)
-
-
 
 <table>
   <tbody>
