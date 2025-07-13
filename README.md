@@ -26,6 +26,11 @@
         <img src="https://wakatime.com/share/@3d505310-fc63-44c4-97c5-9f2c6c91114b/db53e84f-3e40-4173-ae7b-c0c69c31b734.svg" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=mrbisquit&background=151515&stroke=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
