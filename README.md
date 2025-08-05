@@ -81,6 +81,6 @@ Here are a few of my favorite projects that I've worked on recently:
 
 ## 📫 Contact Me
 
-If you want to get in touch, feel free to email me at [william@wtdawson.info](mailto:william@wtdawson.info).
+If you want to get in touch, feel free to email me at [william@wtdawson.info](mailto:william@wtdawson.info), or use the [contact form on my website](https://go.wtdawson.info/gh-contact).
 
 ---
