@@ -1,4 +1,4 @@
-# Hello there, I'm MrBisquit! 👋
+# Hello there, I'm William! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=MrBisquit)
 
@@ -67,20 +67,6 @@ Here are some of the technologies and tools that I'm proficient in:
 
 ---
 
-## 💻 My Projects
-
-Here are a few of my favorite projects that I've worked on recently:
-
-| Project Name | Description | Technologies |
-|--------------|-------------|--------------|
-| [uniqueit](https://github.com/mrbisquit/uniqueit) | Generates unique things, hence the name unique it. | C# |
-| [Banana Software Website](https://bananasoftware.dev/?utm_source=https://github.com/mrbisquit) | A webite for things like apps and even AI. | Node.JS, JavaScript, EJS, Express.js, Brain.js (And a lot others) |
-| [Useful Bot](https://usefulbot.co.uk/?utm_soucre=https://github.com/mrbisquit) | A Discord bot. | Node.JS, Discord.JS, EJS, Express.js, Brain.js (And a lot others) |
-
----
-
 ## 📫 Contact Me
 
 If you want to get in touch, feel free to email me at [william@wtdawson.info](mailto:william@wtdawson.info), or use the [contact form on my website](https://go.wtdawson.info/gh-contact).
-
----
