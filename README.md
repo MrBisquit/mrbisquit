@@ -31,6 +31,11 @@
         <img src="https://streak-stats.demolab.com?user=mrbisquit&background=151515&stroke=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://gitroll.io/profile/uGyGS376CV6NA94D2MhtwY8pQhFJ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGyGS376CV6NA94D2MhtwY8pQhFJ2?theme=dark" alt="GitRoll Profile Badge"/></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
