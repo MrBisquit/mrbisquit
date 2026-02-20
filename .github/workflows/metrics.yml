@@ -16,8 +16,7 @@ jobs:
           # Options
           user: mrbisquit
           template: classic
-          #base: header, activity, community, repositories, metadata
-          base: ""
+          base: header, activity, community, repositories, metadata, languages
           config_timezone: Europe/London
           
           # Plugins
