@@ -28,6 +28,7 @@ jobs:
           plugin_languages_colors: rainbow
           plugin_languages_limit: 16
           #plugin_languages_analysis_timeout: 15
+          commits_authoring: William Dawson, mrbisquit, mrbisquit@users.noreply.github.com
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
