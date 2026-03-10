@@ -73,4 +73,4 @@ Here are some of the technologies and tools that I'm proficient in:
 
 ## 📫 Contact Me
 
-If you want to get in touch, feel free to email me at [william@wtdawson.info](mailto:william@wtdawson.info), or use the [contact form on my website](https://go.wtdawson.info/gh-contact).
+If you want to get in touch, feel free to email me at [william@wtdawson.info](mailto:william@wtdawson.info), use the [contact form on my website](https://go.wtdawson.info/gh-contact), or [contact me on social media](https://go.wtdawson.info/social).
