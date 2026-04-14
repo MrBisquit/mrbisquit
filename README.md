@@ -6,6 +6,8 @@
 
 ## 📈 My GitHub Stats
 
+Some of these don't load sometimes for some reason
+
 <table>
   <tbody>
     <tr>
