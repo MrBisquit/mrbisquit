@@ -16,7 +16,7 @@ jobs:
           # Options
           user: mrbisquit
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata, languages
           config_timezone: Europe/London
           
           # Plugins
@@ -57,4 +57,10 @@ jobs:
           plugin_lines_history_limit: 6
           plugin_lines_repositories_limit: 32
           plugin_lines_sections: base
+
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
           
