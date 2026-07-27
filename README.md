@@ -6,21 +6,19 @@
 
 ## 📈 My GitHub Stats
 
-Some of these don't load sometimes for some reason
-
 <table>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrBisquit&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=MrBisquit&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBisquit&layout=compact&theme=dark&langs_count=20" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MrBisquit&layout=compact&theme=dark&langs_count=20" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrbisquit&layout=compact&theme=dark" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=mrbisquit&layout=compact&theme=dark" />
       </td>
     </tr>
     <tr>
